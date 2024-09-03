@@ -9,9 +9,9 @@ Realizar empréstimo de um livro: Permite que um usuário escolha um livro dispo
 Estrutura do Projeto
 O projeto é dividido nas seguintes classes principais:
 
-Livro: Representa os livros na biblioteca, com atributos como id, titulo, autor, disponivel, dataCadastro e dataAtualizacao.
-Autor: Representa os autores dos livros, com atributos como id, nome, e dataNascimento.
-Emprestimo: Gerencia os empréstimos de livros, com informações sobre o livro emprestado e datas de empréstimo e devolução.
+Livro: Representa os livros na biblioteca, com atributos como id, titulo, autor, disponivel, dataCadastro e dataAtualizacao.<br>
+Autor: Representa os autores dos livros, com atributos como id, nome, e dataNascimento.<br>
+Emprestimo: Gerencia os empréstimos de livros, com informações sobre o livro emprestado e datas de empréstimo e devolução.<br>
 Biblioteca: Gerencia a coleção de livros, autores e empréstimos.
 Requisitos
 Java Development Kit (JDK) 8 ou superior
