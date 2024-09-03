@@ -12,7 +12,7 @@ O projeto é dividido nas seguintes classes principais:
 Livro: Representa os livros na biblioteca, com atributos como id, titulo, autor, disponivel, dataCadastro e dataAtualizacao.<br>
 Autor: Representa os autores dos livros, com atributos como id, nome, e dataNascimento.<br>
 Emprestimo: Gerencia os empréstimos de livros, com informações sobre o livro emprestado e datas de empréstimo e devolução.<br>
-Biblioteca: Gerencia a coleção de livros, autores e empréstimos.
+Biblioteca: Gerencia a coleção de livros, autores e empréstimos.<br>
 Requisitos
 Java Development Kit (JDK) 8 ou superior
 IDE de sua escolha (Eclipse, IntelliJ IDEA, NetBeans, etc.)
